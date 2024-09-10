@@ -1,0 +1,12 @@
+header {
+  padding: 15px;
+}
+
+header i {
+  font-size: 20px;
+  color: #1d1d1d;
+}
+
+#mainButton {
+  border: none;
+}
