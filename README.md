@@ -63,7 +63,7 @@ To run this project locally, make sure you have **Git** and **npm** (Node.js) in
 ## Contact
 
 - **Email**: [edgar_castillo@exatec.tec.mx](mailto:edgar_castillo@exatec.tec.mx)
-- **LinkedIn**: [Edgar Castillo](www.linkedin.com/in/edgarcastillop)
+- **LinkedIn**: [Edgar Castillo](https://linkedin.com/in/edgarcastillop)
 - **GitHub**: [EdgarAlexandro](https://github.com/EdgarAlexandro)
 
 ---
